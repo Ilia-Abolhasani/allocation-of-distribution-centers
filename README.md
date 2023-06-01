@@ -4,7 +4,7 @@ This project addresses the allocation problem of customers to potential distribu
 
 ## Project Description
 
-The repository contains MATLAB code that implements three algorithms for solving this allocation problem: Genetic Algorithm (GA), Krill Herd Algorithm (KA), and Simulated Annealing (SA). The algorithms are based on the research paper titled ["Solving the Allocation of Customers to Potential Distribution Centers in Supply Chain Networks by GA, KA, SA"](https://www.researchgate.net/publication/317101536_Solving_the_Allocation_of_Customers_to_Potential_Distribution_Centers_in_Supply_Chain_Networks_by_GA_KA_SA).
+The repository contains MATLAB code that implements three algorithms for solving this allocation problem: Genetic Algorithm (GA), Keshtel Algorithm (KA), and Simulated Annealing (SA). The algorithms are based on the research paper titled ["Solving the Allocation of Customers to Potential Distribution Centers in Supply Chain Networks by GA, KA, SA"](https://www.researchgate.net/publication/317101536_Solving_the_Allocation_of_Customers_to_Potential_Distribution_Centers_in_Supply_Chain_Networks_by_GA_KA_SA).
 
 The allocation problem is a critical issue in supply chain networks, involving the selection of potential distribution centers and the optimization of costs associated with opening and dispatching. The project utilizes the Taguchi experimental design method to determine the best parameters for each algorithm and evaluates their efficiency using test problems. The computational results of each algorithm are compared, and the performance is examined for different problem sizes.
 
